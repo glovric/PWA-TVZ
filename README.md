@@ -1,1 +1,1 @@
-# PWA-TVZ
+# Programiranje web aplikacija
